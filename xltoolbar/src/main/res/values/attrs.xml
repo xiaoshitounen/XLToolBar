@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="XLToolBar">
+        <!--布局文件的id-->
+        <attr name="layout_id" format="reference"/>
+    </declare-styleable>
+</resources>
