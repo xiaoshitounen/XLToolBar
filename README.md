@@ -60,6 +60,8 @@ dependencies {
 
 页面样式(layout_id)是一个xml文件，你可以自己定义你想要的样式。
 
+想要传入自定义布局时，布局中一定要有三个Button，且其id依次是left，logo，right。
+
 例子：
 ~~~xml
 <?xml version="1.0" encoding="utf-8"?>
