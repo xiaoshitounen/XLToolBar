@@ -64,7 +64,7 @@ public class XLToolBar extends RelativeLayout {
      */
     private void init() {
         //找到布局
-        View inflate = LayoutInflater.from(getContext()).inflate(R.layout.tool_bar_layout, this);
+        View inflate = LayoutInflater.from(getContext()).inflate(layout_id, this);
 
         //找到对应的控件
         left_btn = inflate.findViewById(R.id.left);
