@@ -1,6 +1,6 @@
 # XLToolBar
 
-详细内容博客地址:[自定义View-XLToolBar](https://fanandjiu.com/%E8%87%AA%E5%AE%9A%E4%B9%89View-XLToolBar/#more)
+详细内容博客地址:[自定义View-XLToolBar](http://www.fanandjiu.com/article/de0ea986.html)
 
 简介：
 
